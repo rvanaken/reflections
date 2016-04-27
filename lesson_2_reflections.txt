@@ -20,6 +20,10 @@ staged and committed in a single commit.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Radical new work could take a substantial amount of time to complete.  With a
+single branch you would not be able to do maintenance until you complete the
+new work.  A new branch allows both activities to continue.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
