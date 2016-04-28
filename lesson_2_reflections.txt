@@ -26,8 +26,16 @@ new work.  A new branch allows both activities to continue.
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams help us see the branch structure.  This helps us understand the state
+of the source at each commit.  Later this will help us understand merging.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+Two evolutions of the same basic project are combined into a single line of
+code.  A branch is represented as a split because the branches are independent.
+A merg brings these to lines int a single line.  They are no longer
+independent.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
