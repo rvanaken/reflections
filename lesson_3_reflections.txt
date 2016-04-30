@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+A remote would be helpful for at least two reasons: 1) It makes a good offsite backup. 
+2) It provides a dependable way to collaborate/share with others.
